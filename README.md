@@ -33,4 +33,3 @@ Flappy Bird Game adalah implementasi sederhana dari game Flappy Bird yang popule
 8. Jika pemain berhasil melewati sebuah pipa, skornya bertambah.
 9. Pemain dapat memulai kembali permainan dengan menekan tombol “Start Game” pada form awal atau menekan “R” setelah permainan berakhir.
 
-Dengan desain ini, program Flappy Bird memberikan pengalaman bermain game yang interaktif dan menyenangkan bagi pengguna.
